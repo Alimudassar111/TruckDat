@@ -1,0 +1,42 @@
+body {
+  background-image: url(http://subtlepatterns.com/patterns/tweed.png);
+}
+
+#contacts-panel {
+     background: transparent;
+  border:none;
+  font-size:15px;
+  font-family: 'Nova Mono', cursive;
+  color:#060505;
+  width: 700px;
+}
+
+#contacts-panel > h2 {
+    margin-bottom : 10px;
+}
+#contacts-panel .form-inline {
+    margin-bottom : 20px;
+}
+header {
+    margin-top: 14px;
+}
+.row > span:first-of-type{
+    font-size: 25px;
+    font-weight: bold;
+}
+.row > div {
+    margin-right:5px;
+    display:inline-block;
+}
+
+input {
+  background: transparent;
+  border:none;
+  font-size:20px;
+  font-family: 'Nova Mono', cursive;
+  color:#060505;
+  width: 250px;
+}
+
+
+
